@@ -32357,7 +32357,7 @@ S:function(a,b){var s,r=null,q=new X.WI(this),p=t.w,o=b.a9(p).f
 o=U.yu("background.png",C.oc,b.a9(p).f.a.b,o.a.a)
 p=b.a9(p).f
 s=t.fQ
-p=H.c([M.Km(r,T.a19(H.c([U.yu("logo.png",r,r,72),T.a19(H.c([q.$2(0,"Guides"),T.fC(r,r,50),q.$2(1,"Pricing"),T.fC(r,r,50),q.$2(2,"Team"),T.fC(r,r,50),q.$2(3,"Stories")],s),C.mg),U.yu("account_button.png",r,r,163)],s),C.pt),r,r,r,r,r,new V.bD(100,35,100,35),p.a.a),T.fC(r,30,r),U.yu("illustration.png",r,400,r),T.fC(r,40,r),T.a19(H.c([U.yu("icon_scroll.png",r,r,16),T.fC(r,r,16),L.a5O("Scroll to Learn More",A.ny(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,r,!0,r,r,r,r,r,r))],s),C.ps),T.fC(r,100,r)],s)
+p=H.c([M.Km(r,T.a19(H.c([U.yu("logo.png",r,r,72),T.a19(H.c([q.$2(0,"Guides"),T.fC(r,r,30),q.$2(1,"Pricing"),T.fC(r,r,30),q.$2(2,"Team"),T.fC(r,r,30),q.$2(3,"Stories")],s),C.mg),U.yu("account_button.png",r,r,163)],s),C.pt),r,r,r,r,r,new V.bD(100,35,100,35),p.a.a),T.fC(r,30,r),U.yu("illustration.png",r,380,r),T.fC(r,50,r),T.a19(H.c([U.yu("icon_scroll.png",r,r,16),T.fC(r,r,16),L.a5O("Scroll to Learn More",A.ny(r,r,r,r,r,r,r,r,r,r,r,16,r,r,r,r,!0,r,r,r,r,r,r))],s),C.ps),T.fC(r,100,r)],s)
 q=P.aM([null,0],t.st,t.S)
 return new M.rw(T.BR(C.is,H.c([o,new B.yT(new G.TK(!0,!0,!0,p,q),r,C.o,!1,r,!0,C.rp,!1,r,6,C.bI,C.x0,r,C.aT,r)],s),C.ig),r)}}
 X.WI.prototype={

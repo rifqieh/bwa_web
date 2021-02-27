@@ -68,15 +68,15 @@ class _HomePageState extends State<HomePage> {
                       children: [
                         buildAppBar(0, 'Guides'),
                         SizedBox(
-                          width: 50,
+                          width: 30,
                         ),
                         buildAppBar(1, 'Pricing'),
                         SizedBox(
-                          width: 50,
+                          width: 30,
                         ),
                         buildAppBar(2, 'Team'),
                         SizedBox(
-                          width: 50,
+                          width: 30,
                         ),
                         buildAppBar(3, 'Stories'),
                       ],
@@ -91,9 +91,9 @@ class _HomePageState extends State<HomePage> {
               SizedBox(height: 30),
               Image.asset(
                 'illustration.png',
-                height: 400,
+                height: 380,
               ),
-              SizedBox(height: 40),
+              SizedBox(height: 50),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
